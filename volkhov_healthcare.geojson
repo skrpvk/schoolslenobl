@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "volkhov_healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 8577, "NAME": "Негосударственное учреждение здравоохранения \"Отделенческая больница на станции Волховстрой\"", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "dentist", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1337146455 }, "geometry": { "type": "Point", "coordinates": [ 3595533.524920252151787, 8382887.419846137054265 ] } },
+{ "type": "Feature", "properties": { "fid": 8578, "NAME": "Дента+", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "dentist", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1337146463 }, "geometry": { "type": "Point", "coordinates": [ 3595527.257632919587195, 8382903.27997151017189 ] } },
+{ "type": "Feature", "properties": { "fid": 8635, "NAME": "Стоматологический кабинет", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "dentist", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1340920925 }, "geometry": { "type": "Point", "coordinates": [ 3597802.527837192639709, 8383868.879371095448732 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "volkhov_sport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 68852, "NAME": null, "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": "fitness_station", "AMENITY": null, "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 5464312621 }, "geometry": { "type": "Point", "coordinates": [ 3600766.186640582513064, 8377925.165411902591586 ] } },
+{ "type": "Feature", "properties": { "fid": 161633, "NAME": null, "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": "dance", "AMENITY": null, "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 11384945859 }, "geometry": { "type": "Point", "coordinates": [ 3599663.344445292837918, 8383247.457540894858539 ] } }
+]
+}

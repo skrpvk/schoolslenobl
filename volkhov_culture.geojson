@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "volkhov_culture",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 6908, "NAME": "Дом творчества юных", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "school", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1238529043 }, "geometry": { "type": "Point", "coordinates": [ 3601465.094931579194963, 8378032.183172769844532 ] } },
+{ "type": "Feature", "properties": { "fid": 6915, "NAME": "Библиотека", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "library", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1238628987 }, "geometry": { "type": "Point", "coordinates": [ 3602761.265686528291553, 8376435.513418110087514 ] } },
+{ "type": "Feature", "properties": { "fid": 8527, "NAME": "Волховская межпоселенческая библиотека", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "library", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 1333889199 }, "geometry": { "type": "Point", "coordinates": [ 3595891.906888911500573, 8383619.420184828341007 ] } },
+{ "type": "Feature", "properties": { "fid": 23906, "NAME": "Детская библиотека", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "library", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 2370539283 }, "geometry": { "type": "Point", "coordinates": [ 3602761.855679829604924, 8376428.433661983348429 ] } },
+{ "type": "Feature", "properties": { "fid": 23909, "NAME": "КИЦ им. Пушкина", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "social_facility", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 2370539295 }, "geometry": { "type": "Point", "coordinates": [ 3602726.277970572002232, 8376433.316251690499485 ] } },
+{ "type": "Feature", "properties": { "fid": 23925, "NAME": "Центр ИТ", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "school", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 2370539354 }, "geometry": { "type": "Point", "coordinates": [ 3602728.370776999276131, 8376423.040623475797474 ] } },
+{ "type": "Feature", "properties": { "fid": 47337, "NAME": "Социально реабилитационный центр радуга", "NAME_EN": null, "NAME_RU": null, "MAN_MADE": null, "LEISURE": null, "AMENITY": "school", "OFFICE": null, "SHOP": null, "TOURISM": null, "SPORT": null, "OSM_TYPE": "node", "OSM_ID": 4317556403 }, "geometry": { "type": "Point", "coordinates": [ 3598596.146750955842435, 8383882.142332053743303 ] } }
+]
+}
